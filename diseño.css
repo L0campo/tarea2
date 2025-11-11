@@ -1,0 +1,10 @@
+
+
+.contenedor{
+    border: 1px solid black;
+    background-color: rgb(198, 199, 201);
+    width: 65%;
+    height: 90vh;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
